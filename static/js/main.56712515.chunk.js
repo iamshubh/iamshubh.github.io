@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-resume"]=this["webpackJsonpmy-resume"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var r=t(0),a=t.n(r),u=t(2),c=t.n(u);t(8),t(9);var m=function(){return a.a.createElement("div",{className:"App"},a.a.createElement("header",null,"Shubham Kumar Resume"),a.a.createElement("hr",null))};c.a.render(a.a.createElement(m,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.56712515.chunk.js.map
